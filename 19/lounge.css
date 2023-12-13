@@ -1,0 +1,14 @@
+body {
+	font-family: Arial;
+	color: grey;
+}
+	h1{
+  border-bottom: 1px solid black;
+}
+
+p {
+	color: maroon;
+}
+p {
+  font-style: italic;
+}
