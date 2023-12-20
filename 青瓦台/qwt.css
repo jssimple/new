@@ -1,0 +1,97 @@
+header{
+    background-color: #04112f;
+    height: 90px;
+    width: 1659px;
+    position: absolute;
+}
+
+.logo{
+    padding-top: 10px;
+    padding-left: 20px;
+    width: 163.79px;
+    height: 63px;
+    float: left;
+}
+
+.a1 {
+    color: #9098AA;
+    float:right;
+    padding-right: 15px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.a2 {
+    color: #9098AA;
+    float:right;
+    font-size: 14px;
+}
+
+.a3 {
+    color: #9098AA;
+    float:right;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.b{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.b1{
+    color: #fff;
+    float: right;
+    padding-right: 60px;
+}
+
+.b2{
+    color: #fff;
+    float: right;
+    padding-right: 60px;
+}
+
+.b3{
+    color: #fff;
+    float: right;
+    padding-right: 60px;
+}
+
+.b4{
+    color: #fff;
+    float: right;
+    padding-right: 60px;
+}
+
+.b5{
+    color: #fff;
+    float: right;
+    padding-right: 60px;
+}
+
+.b6{
+    color: #fff;
+    float: right;
+    padding-right: 30px;
+}
+
+.b7{
+    color: #fff;
+    float: right;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+
+.b8{
+    color: #fff;
+    float: right;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+
+body{
+    margin: 0px;
+}
